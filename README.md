@@ -1,4 +1,4 @@
-# 👋 Hi, I'm KWen!
+# 👋 Hi, I'm Kai Wen!
 🎓 I'm currently a student passionate about software engineering and digital creativity.  
 💻 I enjoy building web applications and exploring 3D modeling in Blender.  
 🌱 Currently learning full-stack development and always open to improving my skills.  
